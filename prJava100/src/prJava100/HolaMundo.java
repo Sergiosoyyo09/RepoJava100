@@ -6,6 +6,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo, probando repositorios en GitHub");
 		System.out.println("Modifico esta clase");
+		System.out.println("Modifico HolaMundo desde Rama1");
 	}
 
 }
