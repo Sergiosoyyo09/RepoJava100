@@ -6,11 +6,11 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo, probando repositorios en GitHub");
 		System.out.println("Modifico esta clase");
-<<<<<<< HEAD
+
 		System.out.println("Añado esta linea desde la Rama1");
-=======
+
 		System.out.println("Modifico HolaMundo desde Rama1");
->>>>>>> refs/heads/Rama1
+
 	}
 
 }
